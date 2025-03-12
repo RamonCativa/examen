@@ -11,7 +11,7 @@ function App() {
     <>
       <PersonajesAleatorios/>
       <Filtro setNombre={setNombre}/>
-      <Buscar nombre={nombre}/>
+     
     </>
   )
 }
